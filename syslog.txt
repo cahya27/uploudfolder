@@ -1,0 +1,209 @@
+Jan  1 00:00:09 syslogd started: BusyBox v1.26.2
+Jan  1 00:00:09 kernel: PPP generic driver version 2.4.2
+Jan  1 00:00:09 kernel: MPPE/MPPC encryption/compression module registered
+Jan  1 00:00:09 kernel: NET: Registered protocol family 24
+Jan  1 00:00:09 kernel: Realtek WLAN driver - version 1.7 (2015-10-30)(SVN:Unversioned symlink)
+Jan  1 00:00:09 kernel: Adaptivity function - version 9.5.20
+Jan  1 00:00:09 kernel: CFG0 
+Jan  1 00:00:09 kernel: 25MHz Clock Source
+Jan  1 00:00:09 kernel: Find Port=0 Device:Vender ID=818c10ec
+Jan  1 00:00:09 kernel: IS_RTL8192F_SERIES value8 = d 
+Jan  1 00:00:09 kernel: MACHAL_version_init
+Jan  1 00:00:09 kernel: [MACFM_software_init 148]wifi hal support Mac function = 0x84860
+Jan  1 00:00:09 kernel: RFE TYPE =3
+Jan  1 00:00:09 kernel: #######################################################
+Jan  1 00:00:09 kernel: SKB_BUF_SIZE=2472 MAX_SKB_NUM=400
+Jan  1 00:00:09 kernel: #######################################################
+Jan  1 00:00:09 kernel: [MACFM_software_init 148]wifi hal support Mac function = 0x84860
+Jan  1 00:00:09 kernel: RFE TYPE =3
+Jan  1 00:00:09 kernel: [MACFM_software_init 148]wifi hal support Mac function = 0x84860
+Jan  1 00:00:09 kernel: RFE TYPE =3
+Jan  1 00:00:09 kernel: [MACFM_software_init 148]wifi hal support Mac function = 0x84860
+Jan  1 00:00:09 kernel: RFE TYPE =3
+Jan  1 00:00:09 kernel: [MACFM_software_init 148]wifi hal support Mac function = 0x84860
+Jan  1 00:00:09 kernel: RFE TYPE =3
+Jan  1 00:00:09 kernel: [MACFM_software_init 148]wifi hal support Mac function = 0x84860
+Jan  1 00:00:09 kernel: RFE TYPE =3
+Jan  1 00:00:09 kernel: Probing RTL8186 10/100 NIC-kenel stack size order[3]...
+Jan  1 00:00:09 kernel: chip name: 8196C, chip revid: 0
+Jan  1 00:00:09 kernel: eth0 added. vid=9 Member port 0x10f...
+Jan  1 00:00:09 kernel: eth1 added. vid=8 Member port 0x10...
+Jan  1 00:00:09 kernel: rtl819x_dlink Generic Netlink family is registered.
+Jan  1 00:00:09 kernel: SPI INIT
+Jan  1 00:00:09 kernel: flash device: 0x400000 at 0xbfe00000
+Jan  1 00:00:09 kernel:  ------------------------- Force into Single IO Mode ------------------------ 
+Jan  1 00:00:09 kernel: |No chipID  Sft chipSize blkSize secSize pageSize sdCk opCk      chipName    |
+Jan  1 00:00:09 kernel: | 0 ef4016h  0h  400000h  10000h   1000h     100h   80    0            W25Q32|
+Jan  1 00:00:09 kernel:  ---------------------------------------------------------------------------- 
+Jan  1 00:00:09 kernel: SPI flash(W25Q32) was found at CS0, size 0x400000
+Jan  1 00:00:09 kernel: flash_bank_1: squashfs filesystem found at offset 0x174000
+Jan  1 00:00:09 kernel: Creating 7 MTD partitions on "flash_bank_1":
+Jan  1 00:00:09 kernel: 0x000000000000-0x000000010000 : "boot"
+Jan  1 00:00:09 kernel: 0x000000010000-0x000000020000 : "MAC"
+Jan  1 00:00:09 kernel: 0x000000020000-0x000000030000 : "config"
+Jan  1 00:00:09 kernel: 0x000000030000-0x000000174000 : "kernel"
+Jan  1 00:00:09 kernel: 0x000000174000-0x000000400000 : "rootfs"
+Jan  1 00:00:09 kernel: 0x000000030000-0x000000400000 : "Linux"
+Jan  1 00:00:09 kernel: 0x000000000000-0x000000400000 : "ALL"
+Jan  1 00:00:09 kernel: Netfilter messages via NETLINK v0.30.
+Jan  1 00:00:09 kernel: nf_conntrack version 0.5.0 (512 buckets, 2048 max)
+Jan  1 00:00:09 kernel: ctnetlink v0.93: registering with nfnetlink.
+Jan  1 00:00:09 kernel: ip_tables: (C) 2000-2006 Netfilter Core Team
+Jan  1 00:00:09 kernel: TCP cubic registered
+Jan  1 00:00:09 kernel: NET: Registered protocol family 10
+Jan  1 00:00:09 kernel: ip6_tables: (C) 2000-2006 Netfilter Core Team
+Jan  1 00:00:09 kernel: NET: Registered protocol family 17
+Jan  1 00:00:09 kernel: Bridge firewalling registered
+Jan  1 00:00:09 kernel: Ebtables v2.0 registered
+Jan  1 00:00:09 kernel: 802.1Q VLAN Support v1.8 Ben Greear <greearb@candelatech.com>
+Jan  1 00:00:09 kernel: All bugs added by David S. Miller <davem@redhat.com>
+Jan  1 00:00:09 kernel: Netlink[Kernel] create socket for igmp ok.
+Jan  1 00:00:09 kernel: Realtek FastPath:v1.03
+Jan  1 00:00:09 kernel: nlmon: nlmon_init entry
+Jan  1 00:00:09 kernel: VFS: Mounted root (squashfs filesystem) readonly on device 31:4.
+Jan  1 00:00:09 kernel: Freeing unused kernel memory: 120k freed
+Jan  1 00:00:09 kernel: updateboot: bootloader up to date
+Jan  1 00:00:09 kernel: gpiom: module license 'Proprietary' taints kernel.
+Jan  1 00:00:09 kernel: Disabling lock debugging due to kernel taint
+Jan  1 00:00:09 kernel: gpiom: module starting ...
+Jan  1 00:00:09 kernel: gpiom: using profile DIR_615X_RT8196E.
+Jan  1 00:00:09 kernel: gpiom: button support enabled.
+Jan  1 00:00:09 kernel: gpiom: led support enabled.
+Jan  1 00:00:09 kernel: nf_conntrack_rtsp v0.6.21 loading
+Jan  1 00:00:09 kernel: nf_nat_rtsp v0.6.21 loading
+Jan  1 00:00:09 kernel: [RTL_NIC]:(success): Dev eth0 is opened!
+Jan  1 00:00:09 kernel: [RTL_NIC]:(success): Dev eth1 is opened!
+Jan  1 00:00:09 kernel: ADDRCONF(NETDEV_UP): eth1: link is not ready
+Jan  1 00:00:09 kernel: -------> Set MIB from /etc/Wireless/RTL8192CD.dat
+Jan  1 00:00:09 kernel: CFGFILE set_mib "wds_enable=0" failed 
+Jan  1 00:00:09 kernel: CFGFILE set_mib "wds_pure=0" failed 
+Jan  1 00:00:09 kernel: CFGFILE set_mib "wds_priority=1" failed 
+Jan  1 00:00:09 kernel: CFGFILE set_mib "wds_encrypt=0" failed 
+Jan  1 00:00:09 kernel: CFGFILE set_mib "wds_num=0" failed 
+Jan  1 00:00:09 kernel: <------- Set MIB from /etc/Wireless/RTL8192CD.dat Success
+Jan  1 00:00:09 kernel: clock 25MHz
+Jan  1 00:00:10 kernel: d-link channel[1+2+3+4+5] = 840
+Jan  1 00:00:10 kernel: d-link channel[2+3+4+5+6] = 760
+Jan  1 00:00:10 kernel: d-link channel[3+4+5+6+7] = 660
+Jan  1 00:00:10 kernel: d-link channel[4+5+6+7+8] = 570
+Jan  1 00:00:10 kernel: d-link channel[5+6+7+8+9] = 470
+Jan  1 00:00:10 kernel: d-link channel[6+7+8+9+10] = 370
+Jan  1 00:00:10 kernel: d-link channel[7+8+9+10+11] = 290
+Jan  1 00:00:10 kernel: d-link channel[8+9+10+11+12] = 220
+Jan  1 00:00:10 kernel: d-link channel[9+10+11+12+13] = 150
+Jan  1 00:00:10 kernel: d-link select channel = 13 + 9
+Jan  1 00:00:12 dnsmasq[212]: started, version 2.78 cache disabled
+Jan  1 00:00:12 dnsmasq[212]: compile time options: IPv6 GNU-getopt no-RTC no-DBus no-i18n no-IDN DHCP DHCPv6 no-Lua no-TFTP no-conntrack no-ipset no-auth no-DNSSEC no-loop-detect no-inotify
+Jan  1 00:00:12 dnsmasq[212]: warning: interface br0 does not currently exist
+Jan  1 00:00:12 dnsmasq-dhcp[212]: DHCP, IP range 192.168.0.100 -- 192.168.0.200, lease time 1d
+Jan  1 00:00:12 dnsmasq-dhcp[212]: DHCPv6 stateless on fd01::
+Jan  1 00:00:12 dnsmasq-dhcp[212]: router advertisement on fd01::
+Jan  1 00:00:12 dnsmasq-dhcp[212]: IPv6 router advertisement enabled
+Jan  1 00:00:12 kernel: message received before monitor task is initialized kerSysSendtoNlMonTask 
+Jan  1 00:00:12 kernel: [RTL_NIC]: Wan link is down!
+Jan  1 00:00:12 kernel: device eth0.2 entered promiscuous mode
+Jan  1 00:00:12 kernel: device eth0 entered promiscuous mode
+Jan  1 00:00:12 kernel: device wlan0 entered promiscuous mode
+Jan  1 00:00:12 kernel: [RTL_NIC]: Add VLAN 2 with portmask: 0x10f, tagmask: 0x100 to switch core
+Jan  1 00:00:12 kernel: [RTL_NIC]: Update netif for eth0, vid: 2, portmask: 0x10f
+Jan  1 00:00:12 kernel: [RTL_NIC]: Add VLAN 1 with portmask: 0x10, tagmask: 0x0 to switch core
+Jan  1 00:00:12 kernel: [RTL_NIC]: Update netif for eth1, vid: 1, portmask: 0x10
+Jan  1 00:00:12 kernel: message received before monitor task is initialized kerSysSendtoNlMonTask 
+Jan  1 00:00:12 kernel: [RTL_NIC]: Wan link is up!
+Jan  1 00:00:12 kernel: message received before monitor task is initialized kerSysSendtoNlMonTask 
+Jan  1 00:00:12 kernel: [RTL_NIC]: Wan link is down!
+Jan  1 00:00:12 kernel: br0: port 2(wlan0) entering learning state
+Jan  1 00:00:12 kernel: br0: port 1(eth0.2) entering learning state
+Jan  1 00:00:12 kernel: br0: port 2(wlan0) entering forwarding state
+Jan  1 00:00:12 kernel: br0: port 1(eth0.2) entering forwarding state
+Jan  1 00:00:13 kernel: [RTL_NIC]:(success): Dev eth1 is closed!
+Jan  1 00:00:13 kernel: [RTL_NIC]:(success): Dev eth1 is opened!
+Jan  1 00:00:13 kernel: ADDRCONF(NETDEV_UP): eth1: link is not ready
+Jan  1 00:00:14 kernel: message received before monitor task is initialized kerSysSendtoNlMonTask 
+Jan  1 00:00:14 kernel: [RTL_NIC]: Wan link is up!
+Jan  1 00:00:14 kernel: ADDRCONF(NETDEV_CHANGE): eth1: link becomes ready
+Jan  1 00:00:16 kernel: wlan0: A wireless client is associated - 9C:6B:72:A2:98:39
+Jan  1 00:00:16 kernel: wlan0: WPA2-AES PSK authentication in progress...
+Jan  1 00:00:16 kernel: wlan0: A wireless client is associated - 9C:6B:72:A2:98:39
+Jan  1 00:00:16 kernel: wlan0: Open and authenticated
+Jan  1 00:00:16 dnsmasq-dhcp[212]: DHCPSOLICIT(br0) 00:01:00:01:26:90:ad:f0:9c:6b:72:a2:98:39 
+Jan  1 00:00:19 dnsmasq-dhcp[212]: DHCPDISCOVER(br0) 9c:6b:72:a2:98:39 
+Jan  1 00:00:19 dnsmasq-dhcp[212]: DHCPOFFER(br0) 192.168.0.113 9c:6b:72:a2:98:39 
+Jan  1 00:00:19 dnsmasq-dhcp[212]: DHCPDISCOVER(br0) 9c:6b:72:a2:98:39 
+Jan  1 00:00:19 dnsmasq-dhcp[212]: DHCPOFFER(br0) 192.168.0.113 9c:6b:72:a2:98:39 
+Jan  1 00:00:19 dnsmasq-dhcp[212]: DHCPDISCOVER(br0) 9c:6b:72:a2:98:39 
+Jan  1 00:00:19 dnsmasq-dhcp[212]: DHCPOFFER(br0) 192.168.0.113 9c:6b:72:a2:98:39 
+Jan  1 00:00:19 dnsmasq-dhcp[212]: DHCPDISCOVER(br0) 9c:6b:72:a2:98:39 
+Jan  1 00:00:19 dnsmasq-dhcp[212]: DHCPOFFER(br0) 192.168.0.113 9c:6b:72:a2:98:39 
+Jan  1 00:00:19 dnsmasq-dhcp[212]: DHCPSOLICIT(br0) 00:01:00:01:26:90:ad:f0:9c:6b:72:a2:98:39 
+Jan  1 00:00:19 dnsmasq-dhcp[212]: DHCPREQUEST(br0) 192.168.0.113 9c:6b:72:a2:98:39 
+Jan  1 00:00:19 dnsmasq-dhcp[212]: DHCPACK(br0) 192.168.0.113 9c:6b:72:a2:98:39 realme-C2
+Jan  1 00:00:23 dnsmasq-dhcp[212]: DHCPSOLICIT(br0) 00:01:00:01:26:90:ad:f0:9c:6b:72:a2:98:39 
+Jan  1 00:00:28 anweb[245]: Starting...
+Jan  1 00:00:29 miniupnpd[247]: could not open lease file: /tmp/upnp.leases
+Jan  1 00:00:29 miniupnpd[247]: HTTP listening on port 48882
+Jan  1 00:00:29 miniupnpd[247]: Listening for NAT-PMP traffic on port 5351
+Jan  1 00:00:31 dnsmasq-dhcp[212]: DHCPSOLICIT(br0) 00:01:00:01:26:90:ad:f0:9c:6b:72:a2:98:39 
+Jan  1 00:00:32 kernel: monitor task is initialized pid= 277 
+Jan  1 00:00:32 link_watcher_start[37]: link watcher start with status 1
+Jan  1 00:00:32 anweb[245]: anweb sighandler signal = 126
+Jan  1 00:00:32 anweb[245]: HTTP main server started on 80,443s port (ports).
+Jan  1 00:00:32 anweb[245]: Dedicated HTTPs main server started
+Jan  1 00:00:32 anweb[245]: HTTP intercept server started on 81,4445s port (ports).
+Jan  1 00:00:33 udhcpc[324]: started, v1.26.2
+Jan  1 00:00:33 udhcpc[324]: sending DHCPDISCOVER
+Jan  1 00:00:35 udhcpc[324]: lease of 192.168.1.2 obtained, lease time 86400
+Jan  1 00:00:36 stop_process_t[285]: not found pid process 'igmpx'
+Jan  1 00:00:36 igmpx[362]: upstream ifaces: eth1
+Jan  1 00:00:36 igmpx[362]: downstream ifaces: br0
+Jan  1 00:00:36 igmpx[362]: Using old argv style
+Jan  1 00:00:36 igmpx[362]: daemonizing ...
+Jan  1 00:00:36 igmpx[363]: kernel multicast version is 305 (v3.05 ?)
+Jan  1 00:00:36 igmpx[363]: kernel mroute inited
+Jan  1 00:00:36 igmpx[363]: proxy prepared
+Jan  1 00:00:36 igmpx[363]: vifi #0 added for eth1
+Jan  1 00:00:36 igmpx[363]: vifi #1 added for br0
+Jan  1 00:00:36 igmpx[363]: valid VIF's configured: upstreams=1, downstreams=1. Ok.
+Jan  1 03:00:37 dnsmasq[212]: nameserver 192.168.1.1 refused to do a recursive query
+Jul  2 17:39:05 ip_is_up[285]: eth1 speed: 100M Full
+Jul  2 17:40:54 kernel: br0: port 2(wlan0) entering disabled state
+Jul  2 17:40:55 kernel: -------> Set MIB from /etc/Wireless/RTL8192CD.dat
+Jul  2 17:40:56 kernel: CFGFILE set_mib "wds_enable=0" failed 
+Jul  2 17:40:56 kernel: CFGFILE set_mib "wds_pure=0" failed 
+Jul  2 17:40:56 kernel: CFGFILE set_mib "wds_priority=1" failed 
+Jul  2 17:40:56 kernel: CFGFILE set_mib "wds_encrypt=0" failed 
+Jul  2 17:40:56 kernel: CFGFILE set_mib "wds_num=0" failed 
+Jul  2 17:40:56 kernel: <------- Set MIB from /etc/Wireless/RTL8192CD.dat Success
+Jul  2 17:40:56 kernel: clock 25MHz
+Jul  2 17:40:56 kernel: br0: port 2(wlan0) entering learning state
+Jul  2 17:40:56 kernel: br0: port 2(wlan0) entering forwarding state
+Jul  2 17:41:01 kernel: d-link channel[1+2+3+4+5] = 830
+Jul  2 17:41:01 kernel: d-link channel[2+3+4+5+6] = 730
+Jul  2 17:41:01 kernel: d-link channel[3+4+5+6+7] = 600
+Jul  2 17:41:01 kernel: d-link channel[4+5+6+7+8] = 470
+Jul  2 17:41:01 kernel: d-link channel[5+6+7+8+9] = 320
+Jul  2 17:41:01 kernel: d-link channel[6+7+8+9+10] = 190
+Jul  2 17:41:01 kernel: d-link channel[7+8+9+10+11] = 100
+Jul  2 17:41:01 kernel: d-link channel[8+9+10+11+12] = 40
+Jul  2 17:41:01 kernel: d-link channel[9+10+11+12+13] = 0
+Jul  2 17:41:01 kernel: d-link select channel = 9 + 13
+Jul  2 17:41:14 kernel: wlan0: A wireless client is associated - 9C:6B:72:A2:98:39
+Jul  2 17:41:14 kernel: wlan0: WPA2-AES PSK authentication in progress...
+Jul  2 17:41:14 kernel: wlan0: A wireless client is associated - 9C:6B:72:A2:98:39
+Jul  2 17:41:14 kernel: wlan0: Authentication failled! (4-2: MIC error)
+Jul  2 17:41:15 kernel: wlan0: Authentication failled! (4-2: MIC error)
+Jul  2 17:41:16 kernel: wlan0: Authentication failled! (4-2: MIC error)
+Jul  2 17:41:17 kernel: wlan0: Authentication failled! (4-2: MIC error)
+Jul  2 17:41:18 kernel: wlan0: A wireless client is deauthenticated - 9C:6B:72:A2:98:39
+Jul  2 17:41:34 kernel: wlan0: A wireless client is associated - 9C:6B:72:A2:98:39
+Jul  2 17:41:34 kernel: wlan0: WPA2-AES PSK authentication in progress...
+Jul  2 17:41:34 kernel: wlan0: A wireless client is associated - 9C:6B:72:A2:98:39
+Jul  2 17:41:34 kernel: wlan0: Open and authenticated
+Jul  2 17:41:34 dnsmasq-dhcp[212]: DHCPSOLICIT(br0) 00:01:00:01:26:90:ad:f0:9c:6b:72:a2:98:39 
+Jul  2 17:41:34 dnsmasq-dhcp[212]: DHCPDISCOVER(br0) 9c:6b:72:a2:98:39 
+Jul  2 17:41:34 dnsmasq-dhcp[212]: DHCPOFFER(br0) 192.168.0.113 9c:6b:72:a2:98:39 
+Jul  2 17:41:34 dnsmasq-dhcp[212]: DHCPREQUEST(br0) 192.168.0.113 9c:6b:72:a2:98:39 
+Jul  2 17:41:34 dnsmasq-dhcp[212]: DHCPACK(br0) 192.168.0.113 9c:6b:72:a2:98:39 realme-C2
+Jul  2 17:41:36 dnsmasq-dhcp[212]: DHCPSOLICIT(br0) 00:01:00:01:26:90:ad:f0:9c:6b:72:a2:98:39 
+Jul  2 17:41:40 dnsmasq-dhcp[212]: DHCPSOLICIT(br0) 00:01:00:01:26:90:ad:f0:9c:6b:72:a2:98:39 
+Jul  2 17:41:48 dnsmasq-dhcp[212]: DHCPSOLICIT(br0) 00:01:00:01:26:90:ad:f0:9c:6b:72:a2:98:39 
